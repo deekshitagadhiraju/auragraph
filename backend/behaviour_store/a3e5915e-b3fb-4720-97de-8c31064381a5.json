@@ -1,0 +1,125 @@
+{
+  "id": "a3e5915e-b3fb-4720-97de-8c31064381a5",
+  "type": "behaviour",
+  "doubts": [
+    {
+      "ts": "2026-03-24T09:06:49.915381+00:00",
+      "notebook_id": "e69a4ae0-f88c-4394-94a5-d320a970a0a8",
+      "topic": "f:Ω 1 ​ →Ω 2 ​what",
+      "question": "f:Ω \n1\n​\n →Ω \n2\n​what does this represent",
+      "page_idx": 0
+    },
+    {
+      "ts": "2026-03-24T09:07:42.337588+00:00",
+      "notebook_id": "e69a4ae0-f88c-4394-94a5-d320a970a0a8",
+      "topic": "f:Ω 1 ​ →Ω 2 ​what",
+      "question": "f:Ω \n1\n​\n →Ω \n2\n​what does this represent",
+      "page_idx": 0
+    },
+    {
+      "ts": "2026-03-24T09:14:02.486476+00:00",
+      "notebook_id": "e69a4ae0-f88c-4394-94a5-d320a970a0a8",
+      "topic": "what is measurable space.",
+      "question": "what is measurable space.",
+      "page_idx": 0
+    },
+    {
+      "ts": "2026-03-24T09:14:29.526218+00:00",
+      "notebook_id": "e69a4ae0-f88c-4394-94a5-d320a970a0a8",
+      "topic": "what is measurable space.",
+      "question": "what is measurable space.",
+      "page_idx": 0
+    },
+    {
+      "ts": "2026-03-24T09:28:23.387903+00:00",
+      "notebook_id": "e69a4ae0-f88c-4394-94a5-d320a970a0a8",
+      "topic": "countably infinite, means what??",
+      "question": "countably infinite, means what??",
+      "page_idx": 2
+    },
+    {
+      "ts": "2026-03-24T09:28:54.933110+00:00",
+      "notebook_id": "e69a4ae0-f88c-4394-94a5-d320a970a0a8",
+      "topic": "countably infinite, means what??",
+      "question": "countably infinite, means what??",
+      "page_idx": 2
+    },
+    {
+      "ts": "2026-03-24T15:00:45.462343+00:00",
+      "notebook_id": "e69a4ae0-f88c-4394-94a5-d320a970a0a8",
+      "topic": "what is probability space ( Ω",
+      "question": "what is probability space \n(\nΩ\n,\n𝐹\n,\n𝑃\n)",
+      "page_idx": 2
+    },
+    {
+      "ts": "2026-03-24T15:01:39.671001+00:00",
+      "notebook_id": "e69a4ae0-f88c-4394-94a5-d320a970a0a8",
+      "topic": "what is probability space ( Ω",
+      "question": "what is probability space \n(\nΩ\n,\n𝐹\n,\n𝑃\n)",
+      "page_idx": 2
+    },
+    {
+      "ts": "2026-03-24T15:15:16.795323+00:00",
+      "notebook_id": "e69a4ae0-f88c-4394-94a5-d320a970a0a8",
+      "topic": "what is monotonic",
+      "question": "what is monotonic",
+      "page_idx": 3
+    },
+    {
+      "ts": "2026-03-24T15:16:01.288592+00:00",
+      "notebook_id": "e69a4ae0-f88c-4394-94a5-d320a970a0a8",
+      "topic": "what is monotonic",
+      "question": "what is monotonic",
+      "page_idx": 3
+    },
+    {
+      "ts": "2026-03-24T15:21:38.092483+00:00",
+      "notebook_id": "e69a4ae0-f88c-4394-94a5-d320a970a0a8",
+      "topic": "what is differentiable",
+      "question": "what is differentiable",
+      "page_idx": 3
+    },
+    {
+      "ts": "2026-03-24T15:27:03.521527+00:00",
+      "notebook_id": "e69a4ae0-f88c-4394-94a5-d320a970a0a8",
+      "topic": "what is differentiable function",
+      "question": "what is differentiable function",
+      "page_idx": 3
+    },
+    {
+      "ts": "2026-03-24T15:27:18.086622+00:00",
+      "notebook_id": "e69a4ae0-f88c-4394-94a5-d320a970a0a8",
+      "topic": "what is differentiable function",
+      "question": "what is differentiable function",
+      "page_idx": 3
+    },
+    {
+      "ts": "2026-03-24T15:36:59.431122+00:00",
+      "notebook_id": "e69a4ae0-f88c-4394-94a5-d320a970a0a8",
+      "topic": "what is continuous random variable",
+      "question": "what is continuous random variable",
+      "page_idx": 3
+    }
+  ],
+  "quiz_answers": [],
+  "highlights": [],
+  "sessions": [],
+  "profile": {
+    "learning_style": "balanced",
+    "weak_concepts": [
+      "f:Ω 1 ​ →Ω 2 ​what",
+      "what is measurable space.",
+      "countably infinite, means what??",
+      "what is probability space ( Ω",
+      "what is monotonic",
+      "what is differentiable function"
+    ],
+    "strong_concepts": [],
+    "preferred_proficiency": "Foundations",
+    "total_doubts": 14,
+    "total_correct": 0,
+    "total_questions": 0,
+    "accuracy": 0.0,
+    "last_updated": "2026-03-24T15:36:59.431178+00:00"
+  }
+}

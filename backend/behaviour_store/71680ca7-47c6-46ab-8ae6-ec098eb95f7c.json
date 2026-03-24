@@ -1,0 +1,51 @@
+{
+  "id": "71680ca7-47c6-46ab-8ae6-ec098eb95f7c",
+  "type": "behaviour",
+  "doubts": [
+    {
+      "ts": "2026-03-23T13:41:35.590926+00:00",
+      "notebook_id": "6069c76f-0d38-4368-9696-8ddc8ff03b88",
+      "topic": "what is probability space. explain in",
+      "question": "what is probability space. explain in detail",
+      "page_idx": 1
+    },
+    {
+      "ts": "2026-03-23T13:42:12.745337+00:00",
+      "notebook_id": "6069c76f-0d38-4368-9696-8ddc8ff03b88",
+      "topic": "what is probability space. explain in",
+      "question": "what is probability space. explain in detail",
+      "page_idx": 1
+    },
+    {
+      "ts": "2026-03-23T16:36:52.685406+00:00",
+      "notebook_id": "6069c76f-0d38-4368-9696-8ddc8ff03b88",
+      "topic": "what is a probability space. explain",
+      "question": "what is a probability space. explain in detail",
+      "page_idx": 1
+    },
+    {
+      "ts": "2026-03-23T16:37:25.326007+00:00",
+      "notebook_id": "6069c76f-0d38-4368-9696-8ddc8ff03b88",
+      "topic": "what is a probability space. explain",
+      "question": "what is a probability space. explain in detail",
+      "page_idx": 1
+    }
+  ],
+  "quiz_answers": [],
+  "highlights": [],
+  "sessions": [],
+  "profile": {
+    "learning_style": "balanced",
+    "weak_concepts": [
+      "what is probability space. explain in",
+      "what is a probability space. explain"
+    ],
+    "strong_concepts": [],
+    "preferred_proficiency": "Foundations",
+    "total_doubts": 4,
+    "total_correct": 0,
+    "total_questions": 0,
+    "accuracy": 0.0,
+    "last_updated": "2026-03-23T16:37:25.326030+00:00"
+  }
+}
