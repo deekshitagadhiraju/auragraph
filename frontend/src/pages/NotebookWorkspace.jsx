@@ -19,7 +19,7 @@ import { ExaminerModal } from '../components/ExaminerModals';
 import { GalaxyGraph } from '../components/Graph';
 import SniperExamModal from '../components/SniperExamModal';
 import GeneralExamModal from '../components/GeneralExamModal';
-import { StudyTimer, NoteSearch, ShortcutsModal } from '../components/Studytools';
+import { StudyTimer, NoteSearch, ShortcutsModal } from '../components/StudyTools';
 import KnowledgePanel from '../components/KnowledgePanel';
 import NoteRenderer from '../components/NoteRenderer';
 import DoubtsPanel from '../components/DoubtsPanel';
